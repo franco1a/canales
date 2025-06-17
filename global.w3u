@@ -1,87 +1,87 @@
 {
   "name": "FRANCO TECH",
-  "image": "https://img.icons8.com/external-flaticons-flat-flat-icons/200w/external-live-tv-live-streaming-flaticons-flat-flat-icons.png",
-  "author": "MoritelliS",
+  "image": "https://github.com/franco1a/canales/blob/main/MEDIA%20X.jpg",
+  "author": "FRANCO",
   "url": "",
   "info": "",
   "groups": [
     {
-      "name": "Deportes Globales (NO VPN)",
+      "name": "REPUBLICA DOMINICANA",
       "stations": [
         {
-          "name": "ESPN",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn"
+          "name": "SITV",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8"
         },
         {
-          "name": "ESPN 2",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn2"
+          "name": "TELEANTILLAS",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN366819347382115.m3u8"
         },
         {
-          "name": "ESPN 3",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn3"
+          "name": "CDN NOTICIAS",
+          "image": "",
+          "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8"
         },
         {
-          "name": "ESPN 4",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn4"
+          "name": "CANAL 4",
+          "image": "",
+          "url": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8"
         },
         {
-          "name": "ESPN 5",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn5"
+          "name": "TELEMICRO",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8"
         },
         {
-          "name": "ESPN 6",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn6"
+          "name": "READY TV",
+          "image": "",
+          "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8"
         },
         {
-          "name": "ESPN 7",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-          "url": "https://stream196tp.com/global1.php?stream=espn7"
+          "name": "ANTENA 7",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8"
         },
         {
-          "name": "FOX Sports",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",
-          "url": "https://stream196tp.com/global1.php?stream=fox1ar"
+          "name": "CDN SPORTS MAX",
+          "image": "",
+          "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
         },
         {
-          "name": "FOX Sports 2",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",
-          "url": "https://stream196tp.com/global1.php?stream=fox2ar"
+          "name": "COLOR VISION ",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8"
         },
         {
-          "name": "FOX Sports 3",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",
-          "url": "https://stream196tp.com/global1.php?stream=fox3ar"
+          "name": "MICROVISION",
+          "image": "",
+          "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8"
         },
         {
-          "name": "TNT Sports Premium AR",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png",
-          "url": "https://stream196tp.com/global1.php?stream=tntsports"
+          "name": "TELESISTEMA 11",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8"
         },
         {
-          "name": "TNT Sports Premium CL",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",
-          "url": "https://stream196tp.com/global1.php?stream=tntsportschile"
+          "name": "TELEUNION",
+          "image": "",
+          "url": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
         },
         {
-          "name": "ESPN Premium",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png",
-          "url": "https://stream196tp.com/global1.php?stream=espnpremium"
+          "name": "TELECENTRO",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8"
         },
         {
-          "name": "DIRECTV SPORTS",
-          "image": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
-          "url": "https://stream196tp.com/global1.php?stream=dsports"
+          "name": "CATORCE TV",
+          "image": "",
+          "url": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
         },
         {
-          "name": "DIRECTV SPORTS 2",
-          "image": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png",
-          "url": "https://stream196tp.com/global1.php?stream=dsports2"
+          "name": "DIGITAL 15",
+          "image": "",
+          "url": "http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8"
         },
         {
           "name": "DIRECTV SPORTS+",
